@@ -6,6 +6,7 @@ package com.wuchang;
 public class TestIdea {
     public static void main(String[] args) {
         System.out.println("ddd");
+
         System.out.println("dddd");
     }
 }
