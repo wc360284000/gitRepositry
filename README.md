@@ -1,2 +1,0 @@
-# gitRepositry
-lean git 
